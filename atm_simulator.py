@@ -20,3 +20,5 @@ while True:
 
     if choice == "1":
         check_balance(balance)
+    elif choice == "2":
+        balance = deposit(balance)
