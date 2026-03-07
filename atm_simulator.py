@@ -24,3 +24,7 @@ while True:
         balance = deposit(balance)
     elif choice == "3":
         balance = withdraw(balance)
+    elif choice == "4":
+        break
+    else:
+        print("Invalid choice.")
