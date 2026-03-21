@@ -36,5 +36,3 @@ Available operations include:
 3. Withdraw Money
 
 4. Exit the Application
- 
- #
